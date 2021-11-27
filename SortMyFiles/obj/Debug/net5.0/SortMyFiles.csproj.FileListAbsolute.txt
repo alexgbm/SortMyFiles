@@ -1,0 +1,16 @@
+F:\Plugins\C#\SortMyFiles\bin\Debug\net5.0\SortMyFiles.exe
+F:\Plugins\C#\SortMyFiles\bin\Debug\net5.0\SortMyFiles.deps.json
+F:\Plugins\C#\SortMyFiles\bin\Debug\net5.0\SortMyFiles.runtimeconfig.json
+F:\Plugins\C#\SortMyFiles\bin\Debug\net5.0\SortMyFiles.runtimeconfig.dev.json
+F:\Plugins\C#\SortMyFiles\bin\Debug\net5.0\SortMyFiles.dll
+F:\Plugins\C#\SortMyFiles\bin\Debug\net5.0\ref\SortMyFiles.dll
+F:\Plugins\C#\SortMyFiles\bin\Debug\net5.0\SortMyFiles.pdb
+F:\Plugins\C#\SortMyFiles\obj\Debug\net5.0\SortMyFiles.csproj.AssemblyReference.cache
+F:\Plugins\C#\SortMyFiles\obj\Debug\net5.0\SortMyFiles.GeneratedMSBuildEditorConfig.editorconfig
+F:\Plugins\C#\SortMyFiles\obj\Debug\net5.0\SortMyFiles.AssemblyInfoInputs.cache
+F:\Plugins\C#\SortMyFiles\obj\Debug\net5.0\SortMyFiles.AssemblyInfo.cs
+F:\Plugins\C#\SortMyFiles\obj\Debug\net5.0\SortMyFiles.csproj.CoreCompileInputs.cache
+F:\Plugins\C#\SortMyFiles\obj\Debug\net5.0\SortMyFiles.dll
+F:\Plugins\C#\SortMyFiles\obj\Debug\net5.0\ref\SortMyFiles.dll
+F:\Plugins\C#\SortMyFiles\obj\Debug\net5.0\SortMyFiles.pdb
+F:\Plugins\C#\SortMyFiles\obj\Debug\net5.0\SortMyFiles.genruntimeconfig.cache
