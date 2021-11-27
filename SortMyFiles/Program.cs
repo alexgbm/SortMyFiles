@@ -80,8 +80,8 @@ class Demo
         Sort.path = Console.ReadLine();
         while (true)//I know it's not right, but it's the best I've come up with. 
         {
-            Thread.Sleep(300000);//Code works once every five minutes.
             Sort.SortFile();
+            Thread.Sleep(300000);//Code works once every five minutes.
         }
 
        
