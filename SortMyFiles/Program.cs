@@ -52,7 +52,7 @@ class Sort
      * implementation option as well.*/
     public void Watch()
     {
-        string path = path + @"\";
+        string path = "Your Path";
         FileSystemWatcher watch = new FileSystemWatcher(path);
 
         watch.NotifyFilter = NotifyFilters.FileName;
